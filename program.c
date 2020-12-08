@@ -11,6 +11,7 @@ int main(){
 	}
 
 	printf("The sum of all even numbers smallen than %d is %d.\n", range,sum);
+	printf("Deze regel is nieuw.");
 	return 0;
 
 }
